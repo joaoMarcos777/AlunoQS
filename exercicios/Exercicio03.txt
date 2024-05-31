@@ -1,0 +1,31 @@
+a. git init: Inicializa um novo repositório Git em um diretório existente.
+
+b. git config --global user.name "turing": Configura o nome de usuário globalmente para todos os repositórios Git no sistema.
+
+c. git add EXERCICIO.txt: Adiciona o arquivo EXERCICIO.txt ao índice (staging area) para ser incluído no próximo commit.
+
+d. git add -A: Adiciona todas as mudanças no diretório de trabalho ao índice, incluindo novos arquivos, arquivos modificados e arquivos deletados.
+
+e. git commit -m "Adicionado nova interface": Faz um commit das mudanças no índice com a mensagem "Adicionado nova interface".
+
+f. git commit: Faz um commit das mudanças no índice, abrindo um editor para que você escreva a mensagem de commit.
+
+g. git reset --hard HEAD: Reseta o diretório de trabalho e o índice para o estado do último commit.
+
+h. cd Downloads: Muda o diretório de trabalho atual para o diretório "Downloads".
+
+i. pwd: Mostra o caminho completo do diretório de trabalho atual.
+
+j. cd ..: Sobe um nível no diretório de trabalho atual.
+
+k. ls: Lista os arquivos e diretórios no diretório de trabalho atual.
+
+l. git pull: Atualiza o repositório local com as mudanças do repositório remoto e faz merge com o branch atual.
+
+m. git push: Envia os commits do branch local para o repositório remoto.
+
+n. git clone <<url>>: Cria uma cópia local de um repositório remoto.
+
+o. git diff: Mostra as diferenças entre o diretório de trabalho atual e o índice, ou entre commits.
+
+p. git show: Exibe informações detalhadas sobre objetos no Git, como commits, blobs, tags e trees.

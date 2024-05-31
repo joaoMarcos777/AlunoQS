@@ -1,0 +1,13 @@
+a. Working Tree, Working Area:
+Working Tree: É o conjunto de arquivos e diretórios no estado atual em que você está trabalhando. Reflete o diretório de trabalho no seu sistema de arquivos.
+Working Area: Usado frequentemente como sinônimo de Working Tree, representa o espaço onde você faz edições nos arquivos antes de prepará-los para o commit.
+
+b. Stage Area, Commit:
+Stage Area: Também conhecida como índice (index), é uma área intermediária onde você adiciona arquivos modificados que serão incluídos no próximo commit.
+Commit: Uma ação que grava permanentemente as mudanças do Stage Area no repositório local, criando um ponto histórico que pode ser revertido ou analisado.
+
+c. Local Repository:
+Repositório armazenado na máquina local do usuário, contendo todos os commits, branches e histórico de versões do projeto.
+
+d. Remote Repository:
+Repositório armazenado em um servidor remoto (por exemplo, no GitHub, GitLab), que pode ser acessado por vários colaboradores para sincronização de mudanças.
